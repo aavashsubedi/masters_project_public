@@ -1,0 +1,5 @@
+mphys/
+data/
+outputs/
+wandb/
+model/__pycache__
